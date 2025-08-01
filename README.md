@@ -14,19 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👋 Hello, I'm **Ujwal Kashyap**  
-### 🎓 CSE Student | Aspiring Software Developer | Tech Enthusiast
+<p align="center">
+  <img src="https://img.shields.io/badge/-Ujwal%20Kashyap-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="Name Banner" />
+</p>
 
----
-
-## 🚀 About Me
-I'm a passionate Computer Science and Engineering student who loves coding, problem-solving, and building cool projects!  
-Always eager to learn new technologies and contribute to open-source.
-
----
-
-## 💻 Skills
-- 🖥️ **Languages:** `C`, `C++`, `Java`, `Python`, `JavaScript`  
-- 🌐 **Web Dev:** `HTML`, `CSS`, `React.js`  
-- 📊 **Data Structures & Algorithms**  
-- 🗄️ **Databases:** `MySQL`
+<h3 al
